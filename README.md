@@ -1,0 +1,2 @@
+# Karedo
+Just another repository.
